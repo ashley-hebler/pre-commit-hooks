@@ -1,0 +1,5 @@
+-   id: html-target-attribute-check
+    name: All target="_blank" must be followed by rel="noopener noreferrer" 
+    entry: html_target_attribute_check
+    language: python
+    files: \.(html)$
